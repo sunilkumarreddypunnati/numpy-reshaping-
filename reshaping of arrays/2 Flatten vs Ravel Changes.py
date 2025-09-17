@@ -1,4 +1,4 @@
-'''Question 5: Flatten vs Ravel Changes
+'''Question 2: Flatten vs Ravel Changes
 
 Task:
 Given the array:
@@ -32,4 +32,5 @@ f[0]=0
 print("Original array after flatten modification:\n",arr)
 r=arr.ravel()
 r[0]=99
+
 print("Original array after ravel modification:\n",arr)
