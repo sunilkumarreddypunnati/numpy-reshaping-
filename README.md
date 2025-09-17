@@ -23,4 +23,16 @@ It features practical tasks covering reshaping arrays into different dimensions,
 💡 Passionate about Python, NumPy, and data analysis  
 🚀 Actively preparing for full-time roles in data analytics and software development  
 
-I belie
+I believe in **learning by doing**, and this project reflects my commitment to mastering NumPy fundamentals with clean, structured coding.
+
+## 🔗 Connect With Me
+🌐 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308/)  
+💻 [GitHub](https://github.com/sunilkumarreddypunnati)  
+
+## 🙌 Connect & Support
+If you’re a recruiter, mentor, or fellow learner — let’s connect and grow together!  
+⭐ Star this repo if you found it helpful or inspiring.
+
+## ℹ️ Summary
+A curated set of NumPy tasks covering **reshaping arrays** and **flatten vs ravel differences**.  
+Each task includes statement, source code, and output screenshots to help learners build confidence in **NumPy transformation operations**.
