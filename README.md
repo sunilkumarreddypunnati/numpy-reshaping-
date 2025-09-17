@@ -3,12 +3,13 @@
 This repository is a structured guide to mastering **NumPy reshaping** and **flattening vs ravel concepts**, which are essential for efficient data handling and memory management in Python.  
 It features practical tasks covering reshaping arrays into different dimensions, and understanding the differences between flattening (copy) vs ravel (view). Perfect for beginners who want clarity on array transformation operations.
 
-## 📂 Task Progression: Beginner ➡️ Advanced
+## 📂 Task Progression: 
 
 | 🧪 Task File | 📄 Statement | 🧮 Source Code | 📷 Output |
 |--------------|--------------|----------------|-----------|
-[1 NumPy Reshaping.py](reshaping%20of%20arrays/1%20NumPy%20Reshaping.py) | [Statement](reshaping%20of%20arrays/1%20NumPy%20Reshaping%20statement.png) | [Source Code](reshaping%20of%20arrays/1%20NumPy%20Reshaping%20sourcecode.png) | ![Output](reshaping%20of%20arrays/1%20NumPy%20Reshaping%20output.png)  
-[2 Flatten vs Ravel Changes.py](reshaping%20of%20arrays/2%20Flatten%20vs%20Ravel%20Changes.py) | [Statement](reshaping%20of%20arrays/2%20Flatten%20vs%20Ravel%20Changes%20statement.py.png) | [Source Code](reshaping%20of%20arrays/2%20Flatten%20vs%20Ravel%20Changes%20sourcecode%20.png) | ![Output](reshaping%20of%20arrays/2%20Flatten%20vs%20Ravel%20Changes%20output.py.png)  
+[1 NumPy Reshaping.py](reshaping%20of%20arrays/1%20NumPy%20Reshaping.py) | [📄 Statement](1%20NumPy%20Reshaping%20statement.png) | [🧮 Source Code](1%20NumPy%20Reshaping%20sourcecode.png) | ![Output](1%20NumPy%20Reshaping%20output.png)  
+[2 Flatten vs Ravel Changes.py](reshaping%20of%20arrays/2%20Flatten%20vs%20Ravel%20Changes.py) | [📄 Statement](2%20Flatten%20vs%20Ravel%20Changes%20statement.py.png) | [🧮 Source Code](2%20Flatten%20vs%20Ravel%20Changes%20sourcecode%20.png) | ![Output](2%20Flatten%20vs%20Ravel%20Changes%20output.py.png)  
+ 
 
 ## ✅ What I Practiced
 - 🎛️ Reshaping arrays into different dimensions  
