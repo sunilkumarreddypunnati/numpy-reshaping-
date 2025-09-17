@@ -7,8 +7,8 @@ It features practical tasks covering reshaping arrays into different dimensions,
 
 | 🧪 Task File | 📄 Statement | 🧮 Source Code | 📷 Output |
 |--------------|--------------|----------------|-----------|
-[1 NumPy Reshaping.py](reshaping%20of%20arrays/1%20NumPy%20Reshaping.py) | [📄 Statement](1%20NumPy%20Reshaping%20statement.png) | [🧮 Source Code](1%20NumPy%20Reshaping%20sourcecode.png) | ![Output](1%20NumPy%20Reshaping%20output.png)  
-[2 Flatten vs Ravel Changes.py](reshaping%20of%20arrays/2%20Flatten%20vs%20Ravel%20Changes.py) | [📄 Statement](2%20Flatten%20vs%20Ravel%20Changes%20statement.py.png) | [🧮 Source Code](2%20Flatten%20vs%20Ravel%20Changes%20sourcecode%20.png) | ![Output](2%20Flatten%20vs%20Ravel%20Changes%20output.py.png)  
+[1 NumPy Reshaping.py](reshaping%20of%20arrays/1%20NumPy%20Reshaping.py) | ![📄 Statement](1%20NumPy%20Reshaping%20statement.png) | ![🧮 Source Code](1%20NumPy%20Reshaping%20sourcecode.png) | ![Output](1%20NumPy%20Reshaping%20output.png)  
+[2 Flatten vs Ravel Changes.py](reshaping%20of%20arrays/2%20Flatten%20vs%20Ravel%20Changes.py) | ![📄 Statement](2%20Flatten%20vs%20Ravel%20Changes%20statement.py.png) |![🧮 Source Code](2%20Flatten%20vs%20Ravel%20Changes%20sourcecode%20.png) | ![Output](2%20Flatten%20vs%20Ravel%20Changes%20output.py.png)  
 
 ## ✅ What I Practiced
 - 🎛️ Reshaping arrays into different dimensions  
