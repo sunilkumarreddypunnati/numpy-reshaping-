@@ -1,4 +1,4 @@
-'''Question: NumPy Reshaping Practice
+'''Question 1: NumPy Reshaping Practice
 
 Task:
 Given the following 1D NumPy array:
@@ -46,4 +46,5 @@ print("Ravelled:\n",ravelled)
 #modified
 ravelled[0]=100
 print("Reshaped after modifying ravelled:\n",reshape)
+
 
